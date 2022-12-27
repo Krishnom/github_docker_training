@@ -59,6 +59,7 @@ Branching strategies (for reading)
 https://medium.com/@grazibonizi/the-best-branching-model-to-work-with-git-4008a8098e6a
 
 
+https://github.com/Krishnom/github_docker_training
 
 Excersie
 1. Create a new repo called syeda-git-learnigs. Make sure to check README.md and license
