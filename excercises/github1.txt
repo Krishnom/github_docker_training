@@ -1,0 +1,10 @@
+Excersie
+
+1. Create a new repo . Make sure to check README.md and license
+2. Clone repo in a local folder (~/repo/)
+3. Add file start.sh and commit the file and push.
+4. Add "echo hello world" in start.sh file and commit the changes and push.
+5. Make your main branch protected from direct merges. (Require a pull request before merging and Do not allow bypassing the above settings ) in Branch Protection Rules.
+6. Create a new branch "feature1" locally. CHeckout the branch, Add a new file called "stop.sh" and commit it.
+7. Push the new branch and raise Pull request to main branch on github.
+8. Merge pull requests.
